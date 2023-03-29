@@ -175,7 +175,7 @@ aria-label="Toggle navigation"
   </div>
   <!-- Background image -->
 </header>
-</div>
+
 
 
 <!-- footer -->
@@ -190,5 +190,3 @@ aria-label="Toggle navigation"
 <!-- footer -->
 
 </div>
-</body>
-</html>
